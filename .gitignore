@@ -1,0 +1,26 @@
+# Personal/private files (DO NOT COMMIT)
+IntegrityCheck_personal.ps1
+config_personal.ps1
+
+# Integrity logs and reports
+integrity_logs/
+*.csv
+*.txt
+
+# PowerShell
+*.ps1.bak
+*.log
+
+# IDE and editors
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+.env
+.env.local
